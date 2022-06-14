@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35318256176",
+    "project_id": "apprestaurante-efefe",
+    "storage_bucket": "apprestaurante-efefe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35318256176:android:44adb394ffa02e0c91d3f5",
+        "android_client_info": {
+          "package_name": "com.example.apprestaurante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35318256176-ka9egtvoinnkr0b1tj2rti0q968jh9ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc8fwSk5BTQjAkbkL9VSuA0CHM9c26094"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35318256176-ka9egtvoinnkr0b1tj2rti0q968jh9ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
