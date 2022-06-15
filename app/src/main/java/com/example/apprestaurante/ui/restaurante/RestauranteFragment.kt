@@ -29,10 +29,7 @@ class RestauranteFragment : Fragment() {
         _binding = FragmentRestauranteBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val textView: TextView = binding.textRestaurante
-        restauranteViewModel.text.observe(viewLifecycleOwner) {
-            textView.text = it
-        }
+
         return root
     }
 
